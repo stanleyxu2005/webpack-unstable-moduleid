@@ -1,5 +1,6 @@
 # webpack-unstable-moduleid
 Repository to troubleshoot Webpack unstable moduleId issue
+[Discuss thread](https://github.com/webpack/webpack/issues/14521#issuecomment-1924161957)
 
 ## What is the issue
 When I update any devDependencies that is used by Webpack, e.g. babel-loader, css-loader, JS files will
